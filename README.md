@@ -18,6 +18,8 @@
 [<img align="left" alt="thetcruise | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thetcruise | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thetcruise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="thetcruise | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -52,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommichaels&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommichaels)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -66,3 +68,4 @@
 [twitter]: https://twitter.com/thetcruise
 [instagram]: https://www.instagram.com/thetcruise/
 [linkedin]: https://www.linkedin.com/in/tomiwa-folorunso-42340518b
+[gmail]: https://www.tomiwafolorunso1@gmail.com
