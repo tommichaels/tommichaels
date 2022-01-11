@@ -1,14 +1,15 @@
 ### Hi there, I'm Tomiwa - aka [tomMichaels] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thetcruise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thetcruise)
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn_@tomiwa_Folorunso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomiwa-folorunso-42340518b)
 
  <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="500" height="400" />
 
 ## I'm a Developer and Mentor!
 
-- 🔭 I'm reaserching on developing a Web app to aid mobile application development 🤐, and some EA advisers 📈 📉 🤖
-- 🌱 I’m currently learning about WebXR development and Web3.0 😊🤓
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm reaserching on developing a Web app to aid mobile application development, and some EA advisers 🤖
+- 🌱 I’m currently learning about WebXR development and Web3.0 😊
+- 👯 I’m looking to collaborate with other content creators around the globe 🌎
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime, movies, music and wildlife documentaries 🧐
 
