@@ -7,10 +7,10 @@
 ## I'm a Developer and Mentor!
 
 - 🔭 I'm reaserching on developing a Web app to aid mobile application development 🤐, and some EA advisers 📈 📉 🤖
-- 🌱 I’m currently learning about WebXR development and Web3 😊🤓
+- 🌱 I’m currently learning about WebXR development and Web3.0 😊🤓
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music, movies, wildlife documentaries and chess (still learning 🤫)
+- ⚡ Fun fact: I love anime, movies, music and wildlife documentaries 🧐
 
 ### Connect with me:
 
@@ -35,6 +35,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+
 
 <br />
 <br />
