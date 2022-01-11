@@ -1,9 +1,10 @@
 ### Hi there, I'm Tomiwa - aka [tomMichaels] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thetcruise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thetcruise)
-[![LinkedIn Connect](https://img.shields.io/linkedin/connect/tomiwafolorunso?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tomiwa-folorunso-42340518b)
 
-## I'm an Engineer, Developer, and Teacher!!
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+## I'm a Developer and Mentor!
 
 - 🔭 I'm reaserching on developing a Web app to aid mobile application development 🤐, and some EA advisers 📈 📉 🤖
 - 🌱 I’m currently learning about WebXR development and Web3 😊🤓
@@ -34,6 +35,20 @@
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Tom's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommichaels&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Tom's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommichaels" />
+
+</details>
 
 [twitter]: https://twitter.com/thetcruise
 [instagram]: https://www.instagram.com/thetcruise/
