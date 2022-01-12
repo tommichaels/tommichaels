@@ -1,7 +1,7 @@
 ### Hi there, I'm Tomiwa - aka [tomMichaels] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/thetcruise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thetcruise)
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn_@tomiwa_Folorunso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomiwa-folorunso-42340518b)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thetcruise?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thetcruise)
 
  <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="500" height="400" />
 
