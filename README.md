@@ -13,7 +13,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love anime, movies, music and wildlife documentaries 🧐 , and I have a degree in Mechanical Engineering.
 
-### Connect with me:
+### Connect with me, I'm kinda awesome:
 
 [<img align="left" alt="thetcruise | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thetcruise | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
