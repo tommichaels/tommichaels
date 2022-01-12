@@ -33,6 +33,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
@@ -52,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommichaels)](https://github.com/anuraghazra/github-readme-stats)
+![Tomiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommichaels&&show_icons=true&title_color=ffffff&icon_color=d2d2d2&text_color=daf7dc&bg_color=848486)
 
 </details>
 
