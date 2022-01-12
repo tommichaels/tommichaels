@@ -7,7 +7,7 @@
 
 ## I'm a Developer and Mentor!
 
-- 🔭 I'm reaserching on developing a Web app to aid mobile application development, and some EA advisers 🤖
+- 🔭 I'm reaserching on developing a Web app to aid mobile application development, and some EA advisers 🤖 💱
 - 🌱 I’m currently learning about WebXR development and Web3.0 😊
 - 👯 I’m looking to collaborate with other content creators around the globe 🌎
 - 🥅 2022 Goals: Contribute more to Open Source projects
