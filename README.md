@@ -5,7 +5,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="450" height="350" />
 
-## I'm a Developer and Mentor!
+### I'm a Developer and Mentor!
 
 - 🔭 I'm reaserching on developing a Web app to aid mobile application development, and some EA advisers 🤖 💱
 - 🌱 I’m currently learning about WebXR development and Web3.0 😊
