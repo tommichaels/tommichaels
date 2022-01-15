@@ -59,12 +59,11 @@
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Tom's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommichaels" />
+ 
+ [![Tomiwa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommichaels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 [twitter]: https://twitter.com/thetcruise
 [instagram]: https://www.instagram.com/thetcruise/
