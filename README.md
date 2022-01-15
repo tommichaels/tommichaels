@@ -59,11 +59,13 @@
 
 </details>
 
-
+<details>
  
- [![Tomiwa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommichaels&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>:zap: Most Used Languages</summary>
+ 
+ ![Tomiwa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommichaels&layout=compact)
 
-
+</details>
 
 [twitter]: https://twitter.com/thetcruise
 [instagram]: https://www.instagram.com/thetcruise/
