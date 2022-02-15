@@ -67,7 +67,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/thetcruise
+[twitter]: https://twitter.com/tomiwamike
 [instagram]: https://www.instagram.com/thetcruise/
 [linkedin]: https://www.linkedin.com/in/tomiwa-folorunso-42340518b
 [gmail]: https://www.tomiwafolorunso1@gmail.com
