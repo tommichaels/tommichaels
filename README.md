@@ -4,7 +4,7 @@
 </h1>
 
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn_@tomiwa_Folorunso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomiwa-folorunso-42340518b)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tomiwamike?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/thetcruise)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tomiwamike?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/tomiwamike)
 
 ###           I'm a Developer and Mentor!
  <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="450" height="350" />
