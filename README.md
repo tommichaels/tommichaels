@@ -34,15 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
@@ -52,6 +44,15 @@
 <br />
 
 ### Other Languages and Tools:
+
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
 
 <br />
 <br />
