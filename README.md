@@ -1,6 +1,6 @@
 
 <h1 align="center">
- Hi there, I'm Tomiwa 👋 
+ Hi there, I'm Tomiwa. 👋 
 </h1>
 
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn_@tomiwa_Folorunso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomiwa-folorunso-42340518b)
