@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/tomiwamike?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/tomiwamike)
 ![](https://komarev.com/ghpvc/?username=tommichaels&style=for-the-badge)
 
-###           I'm a Developer and Mentor!
+###           I'm a Software Developer and Instructor!
 ### <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="400" height="300" />
 
 
