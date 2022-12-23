@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=tommichaels&style=for-the-badge)
 
 ###           I'm a Developer and Mentor!
- <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="450" height="350" />
+ <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="350" height="250" />
 
 
 - 🔭 I'm reaserching on developing a no-code Web app to aid web application development 🤖 💱
