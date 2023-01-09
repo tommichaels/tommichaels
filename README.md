@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=tommichaels&style=for-the-badge)
 
 ###           I'm a Software Developer and Instructor!
-### <img align="right" alt="GIF" src="https://github.com/tommichaels/tommichaels/blob/main/code.gif?raw=true" width="400" height="300" />
+### <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
 
 
 - 🔭 I'm reaserching on developing a no-code Web app to aid web application development 🤖 💱
@@ -52,6 +52,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />
@@ -62,7 +63,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
  
-![Tomiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommichaels&&show_icons=true&title_color=ffffff&icon_color=d2d2d2&text_color=daf7dc&bg_color=848486)
+<!-- ![Tomiwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommichaels&&show_icons=true&title_color=ffffff&icon_color=d2d2d2&text_color=daf7dc&bg_color=848486) -->
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=tommichaels)](https://git.io/streak-stats)
 
 </details>
 
