@@ -11,7 +11,7 @@
 ### <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
 
 
-- 🔭 I'm reaserching on developing a no-code Web app to aid web application development 🤖 💱
+- 🔭 I'm researching on developing a no-code Web app to aid web application development 🤖 💱
 - 🌱 I’m currently learning about WebXR development and Web3.0 😊
 - 👯 I’m looking to collaborate with other software engineers and content creators around the globe 🌎
 - 🥅 2022 Goals: Contribute more to Open Source projects
