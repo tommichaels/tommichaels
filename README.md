@@ -46,17 +46,18 @@
 
 ### Other Languages and Tools:
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+<img align="left" alt="C Lang" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+<img align="left" alt="Dart" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
+<img align="left" alt="Three.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />
+<img align="left" alt="Vue.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" />
 
 <br />
 <br />
