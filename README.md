@@ -84,3 +84,7 @@
 [instagram]: https://www.instagram.com/thetcruise/
 [linkedin]: https://www.linkedin.com/in/tomiwa-folorunso-42340518b
 [gmail]: https://www.tomiwafolorunso1@gmail.com
+
+#### 📊 GitHub 3D Profile
+
+![](https://raw.githubusercontent.com/tommichaels/tommichaels/profile3d-output/profile-green-animate.svg)
