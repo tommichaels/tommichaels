@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning about WebXR development and Web3.0 😊
 - 👯 I’m looking to collaborate with other software engineers and content creators around the globe 🌎
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun facts: I love anime, movies, music and wildlife documentaries 🧐 , and I have a degree in Mechanical Engineering.
+- ⚡ Fun facts: I love anime, movies, music and wildlife documentaries 🧐.
 
 ### Connect with me, I'm kinda awesome:
 
