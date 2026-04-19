@@ -11,11 +11,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
 
 
-- 🔭 I'm researching on developing a no-code Web app to aid web application development 🤖 💱
-- 🌱 I’m currently learning about WebXR development and Web3.0 😊
-- 👯 I’m looking to collaborate with other software engineers and content creators around the globe 🌎
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun facts: I love anime, movies, music and wildlife documentaries 🧐.
+- 🔭 Currently building multiple products, including two B2B web applications focused on scalable and real-world use cases
+- 🌱 Experience in WebXR and Web3, with a strong interest in immersive and emerging technologies
+- 🤝 Open to collaborating with software engineers and creators on impactful, global projects
+- 🎯 2026 Goals: Contribute consistently to open-source and ship high-quality, production-ready products
+- ⚡ Outside of work: I enjoy anime, films, music, and wildlife documentaries
 
 ### Connect with me, I'm kinda awesome:
 
